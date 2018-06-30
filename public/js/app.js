@@ -65118,7 +65118,7 @@ var render = function() {
         {
           attrs: {
             "clipped-left": _vm.$vuetify.breakpoint.lgAndUp,
-            color: "blue-grey darken-3",
+            color: "blue darken-3",
             dark: "",
             app: "",
             fixed: ""
